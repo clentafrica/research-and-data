@@ -54,7 +54,7 @@ This repository is licensed under the MIT License. See the [LICENSE](https://git
 
 ## Contact
 
-For any questions or inquiries, please contact us at clentafrica@outlook.com.
+For any questions or inquiries, please contact us at info@clentafrica.org.
 
 ---
 
