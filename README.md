@@ -69,7 +69,7 @@ This repository is licensed under the MIT License. See the [LICENSE](https://git
 
 For any questions, suggestions, or inquiries related to research and data, please reach out to:
 
-📧 **researchdata@clentafrica.org**
+📧 SALMA - **researchdata@clentafrica.org**
 
 For general inquiries, please contact us at **info@clentafrica.org**.
 
